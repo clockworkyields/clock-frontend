@@ -7,39 +7,34 @@ const config: MenuEntry[] = [
     href: '/',
   },
   {
-    label: 'BLZD to xBLZD',
-    icon: 'TradeIcon',
-    href: '/xBLZD',
-  },
-  {
     label: 'Trade',
     icon: 'TradeIcon',
     items: [
       {
         label: 'Exchange',
-        href: 'https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
+        href: 'https://swap.hyperjump.fi/#/swap?outputcurrency=0xeF52250C313dF3321cE27290092cd9E984e6F33A',
         external: true,
       },
       {
         label: 'Liquidity',
-        href: 'https://exchange.pancakeswap.finance/#/add/BNB/0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
+        href: 'https://swap.hyperjump.fi/#/add/BNB/0xeF52250C313dF3321cE27290092cd9E984e6F33A',
         external: true,
       },
     ],
   },
   {
-    label: 'Farms',
+    label: 'CLOCKWORK',
     icon: 'FarmIcon',
     href: '/farms',
   },
   {
-    label: 'Caves',
-    icon: 'CaveIcon',
+    label: 'Vetted rentals',
+    icon: 'FarmIcon',
     href: '/caves',
   },
   {
-    label: 'Blizzard',
-    icon: 'PoolIcon',
+    label: 'Unvetted rentals',
+    icon: 'FarmIcon',
     href: '/pools',
   },
   {
@@ -47,8 +42,8 @@ const config: MenuEntry[] = [
     icon: 'InfoIcon',
     items: [
       {
-        label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0x57067A6BD75c0E95a6A5f158455926e43E79BeB0',
+        label: 'Poo',
+        href: 'https://poocoin.app/tokens/0xeF52250C313dF3321cE27290092cd9E984e6F33A',
         external: true,
       },
     ],
@@ -56,20 +51,14 @@ const config: MenuEntry[] = [
   {
     label: 'Github',
     icon: 'GithubIcon',
-    href: 'https://github.com/blzd-dev',
+    href: 'https://github.com/clockworkyields',
     external: true,
   },
   {
-    label: 'Blog',
+    label: 'Medium',
     icon: 'MediumIcon',
-    href: 'https://blizzardmoney.medium.com',
+    href: 'https://clockwork-yields.medium.com',
     external: true,
-  },
-  {
-    label: 'Audit',
-    icon: 'AuditIcon',
-    external: true,
-    href: 'https://github.com/blzd-dev/blzd-frontend/blob/master/public/files/gemzAudit.pdf',
   },
 ]
 
