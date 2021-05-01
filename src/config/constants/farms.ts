@@ -7,7 +7,7 @@ const farms: FarmConfig[] = [
     lpSymbol: 'CLOCK-BUSD LP',
     lpAddresses: {
       97: '',
-      56: '0xeDCd99aD43C6911D37780158370ec1913Ee9e7D3',
+      56: '0xE9C53B5Ab0C9cDBd72A03151a628863C28c55A6A',
     },
     tokenSymbol: 'CLOCK',
     tokenAddresses: {
