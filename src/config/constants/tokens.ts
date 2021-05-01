@@ -15,6 +15,15 @@ const tokens = {
   clock: {
     symbol: 'CLOCK',
     address: {
+      56: '0x6d216c9925ee66ad2d037d9c3276eb203c5bdc3d',
+      97: '0x1977ECbdE6832920c3554E238deDFfBC5ed996c9',
+    },
+    decimals: 18,
+    projectLink: 'https://clockwork.money/',
+  },
+  cdmc: {
+    symbol: 'CDMC',
+    address: {
       56: '0xef52250c313df3321ce27290092cd9e984e6f33a',
       97: '0x1977ECbdE6832920c3554E238deDFfBC5ed996c9',
     },
