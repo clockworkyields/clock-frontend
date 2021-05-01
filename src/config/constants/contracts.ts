@@ -7,6 +7,10 @@ export default {
     56: '0x367CdDA266ADa588d380C7B970244434e4Dde790',
     97: '',
   },
+  clock: {
+    56: '0x6d216c9925ee66ad2d037d9c3276eb203c5bdc3d',
+    97: '',
+  },
   masterChef: {
     56: '0x2078F4A75c92A6918D13e3e2F14183443ebf55D3',
     97: '',
