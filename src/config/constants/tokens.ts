@@ -12,6 +12,15 @@ const tokens = {
     decimals: 18,
     projectLink: 'https://blizzard.money/',
   },
+  clock: {
+    symbol: 'CLOCK',
+    address: {
+      56: '0xef52250c313df3321ce27290092cd9e984e6f33a',
+      97: '0x1977ECbdE6832920c3554E238deDFfBC5ed996c9',
+    },
+    decimals: 18,
+    projectLink: 'https://clockwork.money/',
+  },
   cake: {
     symbol: 'CAKE',
     address: {
