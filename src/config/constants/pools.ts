@@ -4,7 +4,7 @@ import { PoolCategory, PoolConfig } from './types'
 const pools: PoolConfig[] = [
   {
     sousId: 1,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.bnb,
     contractAddress: {
       97: '',
@@ -14,11 +14,11 @@ const pools: PoolConfig[] = [
     harvest: true,
     tokenPerBlock: '0.002480',
     sortOrder: 999,
-    isFinished: true,
+    isFinished: false,
   },
   {
     sousId: 2,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.bifi,
     contractAddress: {
       97: '',
@@ -28,11 +28,11 @@ const pools: PoolConfig[] = [
     harvest: true,
     tokenPerBlock: '0.00009920',
     sortOrder: 999,
-    isFinished: true,
+    isFinished: false,
   },
   {
     sousId: 3,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.btc,
     contractAddress: {
       97: '',
@@ -46,7 +46,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 4,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.eth,
     contractAddress: {
       97: '',
@@ -60,7 +60,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 5,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.bnb,
     contractAddress: {
       97: '',
@@ -74,7 +74,7 @@ const pools: PoolConfig[] = [
   },
   {
     sousId: 6,
-    stakingToken: tokens.blzd,
+    stakingToken: tokens.clock,
     earningToken: tokens.cake,
     contractAddress: {
       97: '',
