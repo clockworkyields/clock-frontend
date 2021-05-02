@@ -41,10 +41,10 @@ const BlzdStats = () => {
     <StyledBlzdStats>
       <CardBody>
         <Heading size="xl" mb="24px">
-          {TranslateString(534, 'BLZD Stats')}
+          {TranslateString(534, 'CLOCK Stats')}
         </Heading>
         <Row>
-          <Text fontSize="14px">{TranslateString(536, 'Total BLZD Supply')}</Text>
+          <Text fontSize="14px">{TranslateString(536, 'Total CLOCK Supply')}</Text>
           {blzdSupply && <CardValue fontSize="14px" value={blzdSupply} decimals={0} />}
         </Row>
         <Row>
