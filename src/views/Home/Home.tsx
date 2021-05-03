@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Heading, Text, BaseLayout } from '@blzd-dev/uikit'
+import { Heading, Text, BaseLayout } from 'clock-uikit'
 import useI18n from 'hooks/useI18n'
 import Page from 'components/layout/Page'
 import FarmStakingCard from './components/FarmStakingCard'
@@ -63,9 +63,9 @@ const Home: React.FC = () => {
     <Page>
       <Hero>
         <Heading as="h1" size="xl" mb="24px" color="primary">
-          {TranslateString(576, 'BLIZZARD.MONEY')}
+          {TranslateString(576, 'Clockwork Yields')}
         </Heading>
-        <Text>{TranslateString(578, 'The best DEFI app on Binance Smart Chain.')}</Text>
+        <Text>{TranslateString(578, `Yield Farm using Hyperswap LP's, Liquidity Locking Protocol, and much more to come`)}</Text>
       </Hero>
       <div>
         <Cards>

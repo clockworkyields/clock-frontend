@@ -5086,6 +5086,17 @@ cliui@^7.0.2:
     strip-ansi "^6.0.0"
     wrap-ansi "^7.0.0"
 
+clock-uikit@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/clock-uikit/-/clock-uikit-0.1.1.tgz#553ee1019e5cb50c5907a4f94623b7da64e3b231"
+  integrity sha512-CbrVCJl+mlP6cxBmXbnw5hqXkpy0lXVN8bEAQMG34DaPcfpN7g5ow7zJkr/N9s16MpjnnvmGWKIsNkfysnE02g==
+  dependencies:
+    "@types/lodash" "^4.14.162"
+    "@types/styled-system" "^5.1.10"
+    lodash "^4.17.20"
+    react-transition-group "^4.4.1"
+    styled-system "^5.1.5"
+
 clone-response@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/clone-response/-/clone-response-1.0.2.tgz#d1dc973920314df67fbeb94223b4ee350239e96b"

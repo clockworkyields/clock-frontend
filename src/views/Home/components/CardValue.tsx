@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { useCountUp } from 'react-countup'
-import { Text } from '@blzd-dev/uikit'
+import { Text } from 'clock-uikit'
 
 interface CardValueProps {
   value: number
