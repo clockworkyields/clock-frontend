@@ -86,7 +86,7 @@ const ExchangeBLZDCard = () => {
     <StyledFarmStakingCard>
       <CardBody>
         <Heading size="lg" mb="24px">
-          Exchange BLZD to xBLZD
+          Exchange CLOCK to ??????
         </Heading>
         <RowBetween>
           <CardImage
@@ -96,7 +96,7 @@ const ExchangeBLZDCard = () => {
             height={64}
           />
           <Block>
-            <Label>BLZD in Wallet</Label>
+            <Label>CLOCK in Wallet</Label>
             <BlzdWalletBalance />
           </Block>
         </RowBetween>
