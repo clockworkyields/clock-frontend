@@ -24,16 +24,16 @@ const config: MenuEntry[] = [
   },
   {
     label: 'CLOCKWORK',
-    icon: 'FarmIcon',
+    icon: 'ClockIcon',
     href: '/farms',
   },
   {
-    label: 'Vetted rentals',
+    label: 'Verified Rentals',
     icon: 'FarmIcon',
     href: '/caves',
   },
   {
-    label: 'Unvetted rentals',
+    label: 'Unverified Rentals',
     icon: 'FarmIcon',
     href: '/pools',
   },

@@ -98,7 +98,7 @@ const FarmedStakingCard = () => {
         </Heading>
         <TokenImageWrapper>
           <CardImage
-            src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/2.png"
+            src="https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/clockTokens/clock-nobackground.png"
             alt="blzd logo"
             width={64}
             height={64}
@@ -107,7 +107,7 @@ const FarmedStakingCard = () => {
             +{' '}
             <img
               style={{ marginLeft: 8 }}
-              width={16}
+              width={20}
               src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/wallet/metamask.png"
               alt="metamask logo"
             />

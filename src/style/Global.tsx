@@ -10,6 +10,7 @@ declare module 'styled-components' {
 const GlobalStyle = createGlobalStyle`
   * {
     // font-family: 'Rubik', sans-serif;
+    // font-family: 'Josefin Sans', sans-serif;
     font-family: 'Limelight', cursive;
   }
   body {
