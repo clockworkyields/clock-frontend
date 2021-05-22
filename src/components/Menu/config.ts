@@ -29,12 +29,12 @@ const config: MenuEntry[] = [
   },
   {
     label: 'Verified Rentals',
-    icon: 'FarmIcon',
+    icon: 'VerifiedIcon',
     href: '/caves',
   },
   {
     label: 'Unverified Rentals',
-    icon: 'FarmIcon',
+    icon: 'UnverifiedIcon',
     href: '/pools',
   },
   {
