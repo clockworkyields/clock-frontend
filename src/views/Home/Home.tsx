@@ -26,7 +26,7 @@ const Hero = styled.div`
   ${({ theme }) => theme.mediaQueries.lg} {
     background-image: url('https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/sticker.png'),
       url('https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/sticker2.png');
-    background-size: 150px;
+    background-size: 198px;
     background-position: left center, right center;
     height: 165px;
     padding-top: 0;

@@ -41,7 +41,7 @@ const Farm: React.FC = () => {
         </div>
         <div style={{ textAlign: 'right' }}>
           <img
-            src="https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzdstakepage.png"
+            src="https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/sticker.png"
             alt="CLOCK Pool icon"
           />
         </div>
