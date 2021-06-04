@@ -11,7 +11,7 @@ import TotalValueLockedCard from './components/TotalValueLockedCard'
 
 const Hero = styled.div`
   align-items: center;
-  background-image: url('https://raw.githubusercontent.com/blzd-dev/blzd-frontend/master/public/images/blzd/3.png');
+  background-image: url('https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/sticker.png');
   background-size: 110px;
   background-repeat: no-repeat;
   background-position: top center;
