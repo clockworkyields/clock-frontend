@@ -10,7 +10,7 @@ import BlzdHarvestBalance from './BlzdHarvestBalance'
 import BlzdWalletBalance from './BlzdWalletBalance'
 
 const StyledFarmStakingCard = styled(Card)`
-  background-image: url('https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/20.png');
+  background-image: url('https://raw.githubusercontent.com/clockworkyields/clock-frontend/master/public/images/50.png');
   background-size: 256px;
   background-repeat: no-repeat;
   background-position: top right;
